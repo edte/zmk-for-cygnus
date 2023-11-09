@@ -120,7 +120,7 @@
             bindings = <
 &kp EXCLAMATION               &kp AT_SIGN                 &kp POUND                   &kp DOLLAR            &kp PERCENT        &kp GRAVE                 &kp AMPERSAND  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp ASTERISK
 &mt LGUI NUMBER_1             &mt LGUI NUMBER_2           &mt LGUI NUMBER_3           &mt LGUI NUMBER_4     &mt LGUI NUMBER_5  &kp MINUS                 &kp EQUAL      &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp DOUBLE_QUOTES
-&none                         &kp SQT                     &kp SQT                     &kp NON_US_BACKSLASH  &kp TILDE          &kp UNDERSCORE            &kp PLUS       &kp LEFT_BRACKET      &kp RBKT               &kp PIPE
+&kp SQT                       &kp SQT                     &kp SQT                     &kp NON_US_BACKSLASH  &kp TILDE          &kp UNDERSCORE            &kp PLUS       &kp LEFT_BRACKET      &kp RBKT               &kp PIPE
                    &kp GRAVE                     &kp TAB                     &kp ESC                        &kp RET            &kp SPACE       &kp BSPC
             >;
         };
